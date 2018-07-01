@@ -1,8 +1,8 @@
 systemversion: 1.1.237
 
 api-server:
-     image:
-       tag: v1.1.47
+  image:
+    tag: v1.1.53
 worker:
   image:
     tag: v1.1.29
