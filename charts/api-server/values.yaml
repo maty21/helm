@@ -21,7 +21,7 @@ env:
   metrics_port: "3000"
   base_url_path: "/hkube/api-server"
   default_storage: "s3"
-  add_default_algorithm: false
+  add_default_algorithm: "false"
 
 lables:
    group:
